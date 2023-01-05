@@ -15,14 +15,14 @@ let products=[
 },
 {
     id:3,
-    name:'Cafe Mexicano',
-    price:300,
+    name:'adore de Dior',
+    price:2625,
     img:'https://st.depositphotos.com/1048902/4796/i/450/depositphotos_47961913-stock-photo-spraying-perfume.jpg'
 },
 {
     id:4,
-    name:'Cafe Mexicano',
-    price:400,
+    name:'Chanel Coco Mademoiselle Eau de Parfum',
+    price:3400,
     img:'https://st.depositphotos.com/1048902/4796/i/450/depositphotos_47961913-stock-photo-spraying-perfume.jpg'
 },
 ];
