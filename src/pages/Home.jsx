@@ -30,8 +30,8 @@ const Home = () => {
                                      
                                                     <h4 className='card-title'>$2099.00</h4>
                                                     <p className="card-text">Perfume Carolina Herrera 212 VIP Rosé Eau de Parfum 50 ml</p>
-                                                    <a href="/#" className="btn btn-info btn-sm d-grid">Carrito</a>
-                                                    <a href="/#" className="btn btn-danger btn-sm d-grid mt-2">Detalle</a>
+                                                    <a href="#" className="btn btn-info btn-sm d-grid">Carrito</a>
+                                                    <a href="#" className="btn btn-danger btn-sm d-grid mt-2">Detalle</a>
                                                 </div>
                                             </div>
                                         </div>
