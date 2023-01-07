@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useEffect } from "react";
 import { PayPalButtons, usePayPalScriptReducer } from "@paypal/react-paypal-js";
 // This values are the props in the UI
