@@ -54,8 +54,8 @@ const ProductsList = () => {
                                                 <div className="card-body">
                                                     <h4 className='card-title'>$950.00</h4>
                                                     <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                                                    <a href="#" className="btn btn-primary btn-sm d-grid">Carrito</a>
-                                                    <a href="#" className="btn btn-warning btn-sm d-grid mt-2">Detalle</a>
+                                                    <a href="/#" className="btn btn-primary btn-sm d-grid">Carrito</a>
+                                                    <a href="/#" className="btn btn-warning btn-sm d-grid mt-2">Detalle</a>
                                                 </div>
                                             </div>
                                         </div>
